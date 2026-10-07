@@ -15,5 +15,5 @@ I build small security CLIs for the software supply chain — fast, dependency-l
 All four share one philosophy: **one command, one scored report** — with `--json` and `--fail-on` so they slot straight into CI.
 
 ```bash
-npx crxray ./my-extension --fail-on HIGH
+npx @burrejak22/crxray ./my-extension --fail-on HIGH
 ```
